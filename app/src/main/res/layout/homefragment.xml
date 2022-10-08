@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.Views.NgogoyoSplash">
+    <RelativeLayout
+        android:id="@+id/ngogoyorelative"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="MissingConstraints">
+
+        <ImageView
+            android:id="@+id/ngogoyoimage"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="90dp"
+            android:layout_marginRight="50dp"
+            android:layout_marginBottom="50dp"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/vote2022"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ngogoyoimage"
+            android:layout_marginTop="30dp"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="Ngogoyo Mp Kajiado North "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/AdView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            app:adSize="BANNER"
+            app:adUnitId="ca-app-pub-2675687367277271/6100367703"
+            tools:ignore="MissingConstraints">
+
+        </com.google.android.gms.ads.AdView>
+
+
+    </RelativeLayout>
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

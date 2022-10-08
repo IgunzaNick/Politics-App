@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nixon/AndroidStudioProjects/Ngogoyo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.129" />
+        <entry key="..\:/Users/nixon/AndroidStudioProjects/Ngogoyo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.129" />
+        <entry key="..\:/Users/nixon/AndroidStudioProjects/Ngogoyo/app/src/main/res/layout/Articlefragment.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/nixon/AndroidStudioProjects/Ngogoyo/app/src/main/res/layout/SavedNewsFragment.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/nixon/AndroidStudioProjects/Ngogoyo/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/nixon/AndroidStudioProjects/Ngogoyo/app/src/main/res/layout/activity_ngogoyo_splash.xml" value="0.13" />
+        <entry key="..\:/Users/nixon/AndroidStudioProjects/Ngogoyo/app/src/main/res/layout/activity_no_internet.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/nixon/AndroidStudioProjects/Ngogoyo/app/src/main/res/layout/articlefragment.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/nixon/AndroidStudioProjects/Ngogoyo/app/src/main/res/layout/campaignlayout.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/nixon/AndroidStudioProjects/Ngogoyo/app/src/main/res/layout/fragment_article.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/nixon/AndroidStudioProjects/Ngogoyo/app/src/main/res/layout/fragment_campaign_news.xml" value="0.22" />
+        <entry key="..\:/Users/nixon/AndroidStudioProjects/Ngogoyo/app/src/main/res/layout/fragment_kenyan_news.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/nixon/AndroidStudioProjects/Ngogoyo/app/src/main/res/layout/fragment_news.xml" value="0.22" />
+        <entry key="..\:/Users/nixon/AndroidStudioProjects/Ngogoyo/app/src/main/res/layout/homefragment.xml" value="0.1" />
+        <entry key="..\:/Users/nixon/AndroidStudioProjects/Ngogoyo/app/src/main/res/layout/internatioalnews.xml" value="0.12" />
+        <entry key="..\:/Users/nixon/AndroidStudioProjects/Ngogoyo/app/src/main/res/layout/internatioalnewswebviewfragment.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/nixon/AndroidStudioProjects/Ngogoyo/app/src/main/res/layout/internationalnews.xml" value="0.25" />
+        <entry key="..\:/Users/nixon/AndroidStudioProjects/Ngogoyo/app/src/main/res/layout/manifestofragment.xml" value="0.1" />
+        <entry key="..\:/Users/nixon/AndroidStudioProjects/Ngogoyo/app/src/main/res/layout/manifestolayout.xml" value="0.2" />
+        <entry key="..\:/Users/nixon/AndroidStudioProjects/Ngogoyo/app/src/main/res/layout/newsfragment.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/nixon/AndroidStudioProjects/Ngogoyo/app/src/main/res/layout/savedNewsFragment.xml" value="0.1" />
+        <entry key="..\:/Users/nixon/AndroidStudioProjects/Ngogoyo/app/src/main/res/layout/savednewsfragment.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/nixon/AndroidStudioProjects/Ngogoyo/app/src/main/res/layout/searchnewsfragment.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/nixon/AndroidStudioProjects/Ngogoyo/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.18" />
+        <entry key="..\:/Users/nixon/AndroidStudioProjects/Ngogoyo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.132" />
+        <entry key="..\:/Users/nixon/AndroidStudioProjects/Ngogoyo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.132" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

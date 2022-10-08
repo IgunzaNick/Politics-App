@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/news_nav_graph"
+    app:startDestination="@id/homeFragment2">
+    <fragment
+        android:id="@+id/homeFragment2"
+        android:name="com.example.ngogoyo.ui.fragments.HomeFragment"
+        android:label="HomeFragment" >
+        <action
+            android:id="@+id/action_homeFragment2_to_manifestoFragment2"
+            app:destination="@id/manifestoFragment2" />
+    </fragment>
+    <fragment
+        android:id="@+id/manifestoFragment2"
+        android:name="com.example.ngogoyo.ui.fragments.ManifestoFragment"
+        android:label="ManifestoFragment" >
+        <action
+            android:id="@+id/action_manifestoFragment2_to_newsfragment2"
+            app:destination="@id/newsfragment2" />
+    </fragment>
+    <fragment
+        android:id="@+id/newsfragment2"
+        android:name="com.example.ngogoyo.ui.fragments.NewsFragment"
+        android:label="Newsfragment"
+        tools:layout="@layout/fragment_news" />
+    <fragment
+        android:id="@+id/articleFragment"
+        android:name="com.example.ngogoyo.ui.fragments.ArticleFragment"
+        android:label="ArticleFragment" >
+        <argument
+            android:name="article"
+            app:argType="com.example.ngogoyo.models.Article" />
+    </fragment>
+    <fragment
+        android:id="@+id/savedNewsFragment"
+        android:name="com.example.ngogoyo.ui.fragments.SavedNewsFragment"
+        android:label="SavedNewsFragment" />
+    <activity
+        android:id="@+id/searchnewsfragment"
+        android:name="com.example.ngogoyo.ui.Views.NgogoyoSplash"
+        android:label="searchnewsfragment"
+        tools:layout="@layout/searchnewsfragment" />
+    <fragment
+        android:id="@+id/Internationalnews"
+        android:name="com.example.ngogoyo.ui.fragments.Internationalnews"
+        android:label="Internationalnews" />
+</navigation>

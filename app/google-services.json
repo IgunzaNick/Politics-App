@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "950525002509",
+    "firebase_url": "https://ngogoyo-e3485-default-rtdb.firebaseio.com",
+    "project_id": "ngogoyo-e3485",
+    "storage_bucket": "ngogoyo-e3485.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950525002509:android:f210056dd551021056a644",
+        "android_client_info": {
+          "package_name": "com.example.ngogoyo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950525002509-tjujc7gmmopt6s340hrt8ldbfqdgbl9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFE8Py5KIdMMEC4OxuRnv4NB1HZIDkT7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950525002509-tjujc7gmmopt6s340hrt8ldbfqdgbl9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
